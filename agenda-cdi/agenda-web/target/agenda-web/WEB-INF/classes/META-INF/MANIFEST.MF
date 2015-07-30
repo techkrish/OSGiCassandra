@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Export-Package: com.smartlearner.agenda.web;uses:="org.glassfish.osgic
+ di,javax.servlet,javax.servlet.annotation,javax.servlet.http,com.smar
+ tlearner.hello.world,com.smartlearner.agenda.api,javax.inject"
+Bundle-SymbolicName: com.smartlearner.agenda-web
+Bundle-Name: agenda-web
+Bundle-Version: 1.0.0.SNAPSHOT
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1437572646289
+Web-ContextPath: /agenda-web
+Import-Package: com.smartlearner.agenda.api;version="[1.0,2)",com.smar
+ tlearner.hello.world;version="[1.0,2)",javax.inject;version="[1.0,2)"
+ ,javax.servlet,javax.servlet.annotation,javax.servlet.http,org.glassf
+ ish.osgicdi;version="[1.0,2)"
+Created-By: 1.8.0_11 (Oracle Corporation)
+Tool: Bnd-1.15.0
+

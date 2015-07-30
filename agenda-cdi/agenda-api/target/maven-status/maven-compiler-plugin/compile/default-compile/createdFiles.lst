@@ -1,0 +1,6 @@
+com/smartlearner/agenda/service/Activator.class
+com/smartlearner/agenda/api/Agenda.class
+com/smartlearner/agenda/api/AgendaInterface.class
+com/smartlearner/agenda/api/AgendaType.class
+com/smartlearner/agenda/api/Conference.class
+com/smartlearner/agenda/service/SimpleAgendaService.class
